@@ -85,36 +85,6 @@ header {
         overflow-wrap: break-word;
     }
 
-    .location-btn-style-1 {
-        border-width: 0px;
-        border-style: solid;
-        border-color: rgba(0, 0, 0, 0);
-        overflow-wrap: break-word;
-        font-style: normal;
-        font-variant: normal;
-        font-size-adjust: none;
-        font-kerning: auto;
-        font-optical-sizing: auto;
-        font-feature-settings: normal;
-        font-variation-settings: normal;
-        font-weight: 400;
-        font-stretch: 100%;
-        line-height: 58px;
-        font-size: 30px;
-        text-rendering: auto;
-        -webkit-font-smoothing: antialiased;
-        font-family: FontAwesome;
-        display: block;
-        width: 58px;
-        height: 58px;
-        border-radius: 50px;
-        float: left;
-        text-align: center;
-        color: rgb(0, 151, 222);
-        margin-right: 10px;
-        background: rgb(237, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
-    }
-
     .location-btn-style-2 {
         border-width: 0px;
         border-style: solid;
