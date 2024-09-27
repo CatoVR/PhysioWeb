@@ -14,22 +14,7 @@ header {
     padding: 20px;
     background-color: rgb(0, 56, 82)
     color: white;
-}
 
-.location-selector {
-    margin-top: 10px;
-}
-
-.location-selector button {
-    padding: 10px 20px;
-    margin: 0 10px;
-    background-color: white;
-    color: #4CAF50;
-    border: 2px solid #4CAF50;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
 
 .location-selector button:hover {
     background-color: #4CAF50;
