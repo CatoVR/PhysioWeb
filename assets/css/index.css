@@ -65,6 +65,7 @@ header {
 .minimized {
     width: 15%;
     opacity: 0.5;
+    overflow: hidden;
 }
 
 .active {
