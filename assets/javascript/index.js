@@ -7,10 +7,18 @@ function showLocation(location) {
         location1.classList.remove('minimized');
         location2.classList.add('minimized');
         location2.classList.remove('active');
+        content1.classList.remove('shown');
+        content1.classList.add('hidden');
+        content2.classList.add('shown');
+        content2.classList.remove('hidden');
     } else if (location === 'location2') {
         location1.classList.add('minimized');
         location1.classList.remove('active');
         location2.classList.add('active');
         location2.classList.remove('minimized');
+        content2.classList.remove('shown');
+        content2.classList.add('hidden');
+        content1.classList.add('shown');
+        content1.classList.remove('hidden');
     }
 }
