@@ -62,6 +62,12 @@ header {
     color: #555;
 }
 
+.shown {
+}
+
+.hidden {
+ width: 0%;
+}
 .minimized {
     width: 15%;
     opacity: 0.5;
