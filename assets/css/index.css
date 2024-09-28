@@ -40,7 +40,7 @@ header {
 #locations {
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 60px;
     margin: 0 auto;
 }
 
